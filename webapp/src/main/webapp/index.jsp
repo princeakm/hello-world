@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account, by James</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
@@ -22,3 +22,4 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+
