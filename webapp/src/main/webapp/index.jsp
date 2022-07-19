@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Registration for SEF technologies Pvt Ltd !!!</h1>
+    <h1>New User Registration for JDF technologies Pvt Ltd !!!</h1>
     <p>Please fill in this form to create an account, by James Mathew.</p>
     <hr>
 
